@@ -1,4 +1,4 @@
-dallinger==3.4.1
+dallinger[data]==3.4.1
 matplotlib==2.1.0
 numpy==1.13.1
 pandas==0.20.3
